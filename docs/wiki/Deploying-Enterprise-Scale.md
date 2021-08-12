@@ -158,7 +158,7 @@ Depending on your requirements, you may choose to deploy additional network infr
 * DDoS Protection Standard
 * Azure Private DNS Zones for Azure PaaS services
 * VPN and ExpressRoute Gateways
-  * If you choose to deploy either or both of these gateways, you will have the option to select the subnet to be dedicated for these resources, if you decide to deploy them as regional or zone-redundant gateways, as well as choose the right SKU based on your requirements
+  * If you choose to deploy either or both of these gateways, you will have the option to select the subnet to be dedicated for these resources, and if you wish to deploy them as regional or zone-redundant gateways, as well as choose the right SKU based on your requirements
 * Azure Firewall
   * If you choose to deploy Azure Firewall, you will have the option to select the subnet, select to deploy the Firewall as regional or zone redundant as well as indicate if you want to enable DNS Proxy in Azure Firewall
 
